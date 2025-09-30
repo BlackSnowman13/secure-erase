@@ -2,7 +2,12 @@
 
 A cross-platform storage device secure erasure tool built in Rust with a modern GUI interface. This application provides secure data wiping capabilities for HDDs, SSDs, NVMe drives, USB devices, and other storage media across Linux, Windows, and Android platforms. Available as both installable applications and bootable ISO for bare-metal operations.
 
-**Key Capabilities:**
+## Design
+
+[View UI/UX Design on Figma](https://www.figma.com/proto/L25psAkxlRDlQstu9yP3u9/Secure-Wipe-SIH?node-id=34-121&t=DTyuqt9AGmJLHfwH-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=64%3A113)
+
+
+## Key Capabilities:
 - **Multi-Platform Support**: Native applications for Linux, Windows, and Android, plus bootable ISO for hardware-level operations
 - **Universal Device Compatibility**: Comprehensive support for all major storage device types and interfaces
 - **Certified Verification**: Generates cryptographically signed certificates providing tamper-proof documentation of secure erasure completion
